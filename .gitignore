@@ -1,0 +1,6 @@
+.idea/
+venvVk/
+*.pyc
+
+# Project exclude paths
+/venvVK/
